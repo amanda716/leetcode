@@ -2,6 +2,8 @@
     "java.compile.nullAnalysis.mode": "automatic",
     "java.configuration.updateBuildConfiguration": "interactive",
     "cSpell.words": [
+        "hamcrest",
         "nums"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
